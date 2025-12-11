@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RozimovAkbarjon
-- 👀 I’m interested in evolutionary genomics of fishes
-- 🌱 I’m currently learning WGS methods
-- 💞️ I’m looking to collaborate on Sturgeon Genomics 
+- 👋 Hi, I’m Akbarjon Rozimov
+- 👀 I’m interested in evolutionary and conservation genomics of fishes
+- 🌱 I’m currently working on Pseudoscaphirhynchus sturgeons and Schizothorax snow trouts 
 - 📫 How to reach me akbarjonruzimov@gmail.com 
 
 <!---
