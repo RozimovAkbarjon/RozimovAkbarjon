@@ -19,16 +19,16 @@ I am an evolutionary biologist specializing in the integration of **morphometric
 
 ## 🧬 Research Interests
 
+- **Integrative evolutionary research** combining morphology, ecology, and genomics to understand biodiversity patterns
 - **Taxonomy, systematics, and species delimitation** of freshwater fishes using integrative approaches  
+- **Morphological evolution and phenotypic plasticity** under natural and anthropogenic influences
 - **Phylogeography and historical biogeography** of Central Asian ichthyofauna  
-- **Hybridization, introgression, and reproductive isolation** in fragmented riverine ecosystems  
-- **Morphological evolution and phenotypic plasticity** under natural and anthropogenic influences  
 - **Genome assembly and comparative genomics** of non-model and endangered taxa  
-- **Phylogenomics** to resolve evolutionary relationships at multiple taxonomic scales  
-- **Population genomics and demographic reconstruction** to infer historical changes in population size and structure  
+- **Phylogenomics** to resolve evolutionary relationships at multiple taxonomic scales
+- **Population genomics and demographic reconstruction** to infer historical changes in population size and structure
+- **Hybridization, introgression, and reproductive isolation** in fragmented riverine ecosystems  
 - **Inbreeding, genetic load, and purging** in small and declining populations  
 - **Conservation genomics** for biodiversity assessment and prioritization in data-deficient regions  
-- **Integrative evolutionary research** combining morphology, ecology, and genomics to understand biodiversity patterns
 
 ---
 
@@ -43,10 +43,10 @@ My research is centered on the **freshwater biodiversity of Central Asia**, part
 - Morphometric and geometric morphometric analysis  
 - Length–weight relationships and condition factor assessment  
 - Mitochondrial and nuclear genome assembly and annotation  
+- Phylogenetic and phylogenomic inference
 - Genome-wide analysis of genetic structure and diversity  
-- Demographic modeling based on allele frequency spectra  
-- Phylogenetic and phylogenomic inference  
-- Hybridization analysis and introgression testing  
+- Hybridization, introgression and incomplete linage sorting 
+- Historical and recent demographic modeling    
 - Assessment of genomic inbreeding and mutational load  
 - Statistical analysis and data visualization integrating ecological, morphological, and genetic datasets
 
